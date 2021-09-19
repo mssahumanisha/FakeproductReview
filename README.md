@@ -3,9 +3,9 @@
 AI/ML Team 4
 Group Meambers:-
 
-Manisha Sahu https://www.linkedin.com/in/manishasahu5/ ,https://github.com/mssahumanisha
+1)Manisha Sahu https://www.linkedin.com/in/manishasahu5/ ,https://github.com/mssahumanisha
 
-Nikhil
+2)Nikhil
 
 Fake Product Review Montering
 Dataset Used:- Amazon product and review data to identify fake reviews
