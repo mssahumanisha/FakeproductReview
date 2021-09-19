@@ -4,8 +4,6 @@ Group Meambers:-
 
 Manisha Sahu https://www.linkedin.com/in/manishasahu5/ ,https://github.com/mssahumanisha
 
-Princita
-
 Nikhil
 
 Fake Product Review Montering
