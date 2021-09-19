@@ -2,7 +2,7 @@
 AI/ML Team 4
 Group Meambers:-
 
-Manisha Sahu
+Manisha Sahu https://www.linkedin.com/in/manishasahu5/ ,https://github.com/mssahumanisha
 
 Princita
 
